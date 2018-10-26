@@ -1,0 +1,6 @@
+year: 0 amount: 100 
+year: 1 amount: 105 
+year: 2 amount: 110.25 
+year: 3 amount: 115.763 
+year: 4 amount: 121.551 
+year: 5 amount: 127.628 
